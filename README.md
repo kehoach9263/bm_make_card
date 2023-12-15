@@ -1,2 +1,2 @@
 # bm_make_card
-Tool Nhận BM, Add thẻ BM, Make thẻ tài khoản...
+
